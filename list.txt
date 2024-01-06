@@ -1,0 +1,6 @@
+1. login
+2. blogs_get
+3. blog_post
+4. blog_put
+5. blogs_get_by_id
+6. blogs_delete
